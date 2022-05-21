@@ -17,8 +17,6 @@ conhecimentos em HTML5 e CSS3 e recentemente adquirido breve conhecimento em Jav
 
 
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-Renan)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caique-Renan&show_icons=true&theme=dracula)
 
 Contatos
